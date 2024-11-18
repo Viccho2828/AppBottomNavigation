@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/principalFragment"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/titulofragmentprincipal" />
+
+    <item
+        android:id="@+id/presentacionFragment"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/titulofragmentpresentacion" />
+
+    <item
+        android:id="@+id/galeriaFragment"
+        android:icon="@drawable/baseline_add_photo_alternate_24"
+        android:title="@string/titulofragmentgaleria" />
+
+    <item
+        android:id="@+id/buzonFragment"
+        android:icon="@drawable/baseline_email_24"
+        android:title="@string/titulofragmentbuzon" />
+
+</menu>
